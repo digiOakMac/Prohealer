@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0cea2d864658ce07aa4e32bc59ad048e",
+    "revision": "23f12a397bcec109f4891fc051f84765",
     "url": "/Prohealer/index.html"
   },
   {
-    "revision": "9cc2f613246726f12b8a",
+    "revision": "d60b3770694e91047f0a",
     "url": "/Prohealer/static/css/2.cdcbbf41.chunk.css"
   },
   {
-    "revision": "b2b9aea68c0f3f689ab1",
+    "revision": "06c1950525055ba8e70d",
     "url": "/Prohealer/static/css/main.f3770032.chunk.css"
   },
   {
-    "revision": "9cc2f613246726f12b8a",
-    "url": "/Prohealer/static/js/2.5e2c7952.chunk.js"
+    "revision": "d60b3770694e91047f0a",
+    "url": "/Prohealer/static/js/2.6512496e.chunk.js"
   },
   {
     "revision": "52d12b4d07a4e2425c6fda4363c88f7b",
-    "url": "/Prohealer/static/js/2.5e2c7952.chunk.js.LICENSE"
+    "url": "/Prohealer/static/js/2.6512496e.chunk.js.LICENSE"
   },
   {
-    "revision": "b2b9aea68c0f3f689ab1",
-    "url": "/Prohealer/static/js/main.0b44e612.chunk.js"
+    "revision": "06c1950525055ba8e70d",
+    "url": "/Prohealer/static/js/main.996bfd29.chunk.js"
   },
   {
     "revision": "63235e04119ba61dc266",
@@ -48,8 +48,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Prohealer/static/media/brand-icons.e8c322de.woff2"
   },
   {
+    "revision": "06589310029bce12ded6832355aeabce",
+    "url": "/Prohealer/static/media/darkElfMage.06589310.jpg"
+  },
+  {
+    "revision": "59d12b41771b9cfcc46ef603610112c0",
+    "url": "/Prohealer/static/media/druid.59d12b41.jpg"
+  },
+  {
+    "revision": "0d58a7ec32079a65470815b59fa67e24",
+    "url": "/Prohealer/static/media/elfMage.0d58a7ec.png"
+  },
+  {
     "revision": "9c74e172f87984c48ddf5c8108cabe67",
     "url": "/Prohealer/static/media/flags.9c74e172.png"
+  },
+  {
+    "revision": "4a9ec14959f16d7add773ac0f228d14a",
+    "url": "/Prohealer/static/media/hunter.4a9ec149.jpg"
   },
   {
     "revision": "0ab54153eeeca0ce03978cc463b257f7",
@@ -90,5 +106,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
     "url": "/Prohealer/static/media/outline-icons.ef60a4f6.woff"
+  },
+  {
+    "revision": "4fcfc9b1d74b763c415307d3367ae6af",
+    "url": "/Prohealer/static/media/priest.4fcfc9b1.jpg"
+  },
+  {
+    "revision": "3208cff034f300b57f5cd53e730ad6bc",
+    "url": "/Prohealer/static/media/warrior.3208cff0.jpg"
   }
 ]);
