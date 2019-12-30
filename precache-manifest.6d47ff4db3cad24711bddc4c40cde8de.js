@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "23f12a397bcec109f4891fc051f84765",
+    "revision": "844292c86ed26060acdbafe3c66b8eea",
     "url": "/Prohealer/index.html"
   },
   {
-    "revision": "d60b3770694e91047f0a",
+    "revision": "ca13241d588f40128c1b",
     "url": "/Prohealer/static/css/2.cdcbbf41.chunk.css"
   },
   {
-    "revision": "06c1950525055ba8e70d",
+    "revision": "b2a7a0b3da2faedb9f86",
     "url": "/Prohealer/static/css/main.f3770032.chunk.css"
   },
   {
-    "revision": "d60b3770694e91047f0a",
-    "url": "/Prohealer/static/js/2.6512496e.chunk.js"
+    "revision": "ca13241d588f40128c1b",
+    "url": "/Prohealer/static/js/2.74260b67.chunk.js"
   },
   {
     "revision": "52d12b4d07a4e2425c6fda4363c88f7b",
-    "url": "/Prohealer/static/js/2.6512496e.chunk.js.LICENSE"
+    "url": "/Prohealer/static/js/2.74260b67.chunk.js.LICENSE"
   },
   {
-    "revision": "06c1950525055ba8e70d",
-    "url": "/Prohealer/static/js/main.996bfd29.chunk.js"
+    "revision": "b2a7a0b3da2faedb9f86",
+    "url": "/Prohealer/static/js/main.4d6063b8.chunk.js"
   },
   {
     "revision": "63235e04119ba61dc266",
@@ -48,24 +48,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Prohealer/static/media/brand-icons.e8c322de.woff2"
   },
   {
-    "revision": "06589310029bce12ded6832355aeabce",
-    "url": "/Prohealer/static/media/darkElfMage.06589310.jpg"
+    "revision": "10fb53874f1f5cd22dd34e8f19574a10",
+    "url": "/Prohealer/static/media/darkElfMage.10fb5387.jpg"
   },
   {
-    "revision": "59d12b41771b9cfcc46ef603610112c0",
-    "url": "/Prohealer/static/media/druid.59d12b41.jpg"
+    "revision": "e70ca2f27fff3b9ef45d272517d46e40",
+    "url": "/Prohealer/static/media/druid.e70ca2f2.jpg"
   },
   {
-    "revision": "0d58a7ec32079a65470815b59fa67e24",
-    "url": "/Prohealer/static/media/elfMage.0d58a7ec.png"
+    "revision": "174012279b590cc2faebe7e148372241",
+    "url": "/Prohealer/static/media/elfMage.17401227.png"
   },
   {
     "revision": "9c74e172f87984c48ddf5c8108cabe67",
     "url": "/Prohealer/static/media/flags.9c74e172.png"
   },
   {
-    "revision": "4a9ec14959f16d7add773ac0f228d14a",
-    "url": "/Prohealer/static/media/hunter.4a9ec149.jpg"
+    "revision": "5ce1bfe185f9a2afb76a27e5496f41fe",
+    "url": "/Prohealer/static/media/hunter.5ce1bfe1.jpg"
   },
   {
     "revision": "0ab54153eeeca0ce03978cc463b257f7",
@@ -108,8 +108,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Prohealer/static/media/outline-icons.ef60a4f6.woff"
   },
   {
-    "revision": "4fcfc9b1d74b763c415307d3367ae6af",
-    "url": "/Prohealer/static/media/priest.4fcfc9b1.jpg"
+    "revision": "50fd2d51bdd40d2333ccba54b8754b6a",
+    "url": "/Prohealer/static/media/priest.50fd2d51.jpg"
   },
   {
     "revision": "3208cff034f300b57f5cd53e730ad6bc",
