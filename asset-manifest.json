@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "https%20://digioakmac.github.io/Prohealer/static/css/main.f3770032.chunk.css",
-    "main.js": "https%20://digioakmac.github.io/Prohealer/static/js/main.cf6e0907.chunk.js",
-    "main.js.map": "https%20://digioakmac.github.io/Prohealer/static/js/main.cf6e0907.chunk.js.map",
-    "runtime-main.js": "https%20://digioakmac.github.io/Prohealer/static/js/runtime-main.b95ff077.js",
-    "runtime-main.js.map": "https%20://digioakmac.github.io/Prohealer/static/js/runtime-main.b95ff077.js.map",
-    "static/css/2.abbb4a89.chunk.css": "https%20://digioakmac.github.io/Prohealer/static/css/2.abbb4a89.chunk.css",
-    "static/js/2.e0bf127e.chunk.js": "https%20://digioakmac.github.io/Prohealer/static/js/2.e0bf127e.chunk.js",
-    "static/js/2.e0bf127e.chunk.js.map": "https%20://digioakmac.github.io/Prohealer/static/js/2.e0bf127e.chunk.js.map",
-    "index.html": "https%20://digioakmac.github.io/Prohealer/index.html",
-    "precache-manifest.5dbd8165af8c834f438de22017f4b311.js": "https%20://digioakmac.github.io/Prohealer/precache-manifest.5dbd8165af8c834f438de22017f4b311.js",
-    "service-worker.js": "https%20://digioakmac.github.io/Prohealer/service-worker.js",
-    "static/css/2.abbb4a89.chunk.css.map": "https%20://digioakmac.github.io/Prohealer/static/css/2.abbb4a89.chunk.css.map",
-    "static/css/main.f3770032.chunk.css.map": "https%20://digioakmac.github.io/Prohealer/static/css/main.f3770032.chunk.css.map",
-    "static/js/2.e0bf127e.chunk.js.LICENSE": "https%20://digioakmac.github.io/Prohealer/static/js/2.e0bf127e.chunk.js.LICENSE",
-    "static/media/semantic.min.css": "https%20://digioakmac.github.io/Prohealer/static/media/outline-icons.ef60a4f6.woff"
+    "main.css": "/Prohealer/static/css/main.f3770032.chunk.css",
+    "main.js": "/Prohealer/static/js/main.0b44e612.chunk.js",
+    "main.js.map": "/Prohealer/static/js/main.0b44e612.chunk.js.map",
+    "runtime-main.js": "/Prohealer/static/js/runtime-main.c970c936.js",
+    "runtime-main.js.map": "/Prohealer/static/js/runtime-main.c970c936.js.map",
+    "static/css/2.cdcbbf41.chunk.css": "/Prohealer/static/css/2.cdcbbf41.chunk.css",
+    "static/js/2.5e2c7952.chunk.js": "/Prohealer/static/js/2.5e2c7952.chunk.js",
+    "static/js/2.5e2c7952.chunk.js.map": "/Prohealer/static/js/2.5e2c7952.chunk.js.map",
+    "index.html": "/Prohealer/index.html",
+    "precache-manifest.de1433ff6f5bb6a739a84c124a702613.js": "/Prohealer/precache-manifest.de1433ff6f5bb6a739a84c124a702613.js",
+    "service-worker.js": "/Prohealer/service-worker.js",
+    "static/css/2.cdcbbf41.chunk.css.map": "/Prohealer/static/css/2.cdcbbf41.chunk.css.map",
+    "static/css/main.f3770032.chunk.css.map": "/Prohealer/static/css/main.f3770032.chunk.css.map",
+    "static/js/2.5e2c7952.chunk.js.LICENSE": "/Prohealer/static/js/2.5e2c7952.chunk.js.LICENSE",
+    "static/media/semantic.min.css": "/Prohealer/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.b95ff077.js",
-    "static/css/2.abbb4a89.chunk.css",
-    "static/js/2.e0bf127e.chunk.js",
+    "static/js/runtime-main.c970c936.js",
+    "static/css/2.cdcbbf41.chunk.css",
+    "static/js/2.5e2c7952.chunk.js",
     "static/css/main.f3770032.chunk.css",
-    "static/js/main.cf6e0907.chunk.js"
+    "static/js/main.0b44e612.chunk.js"
   ]
 }
