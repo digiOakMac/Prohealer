@@ -1,32 +1,36 @@
 {
   "files": {
-    "main.css": "/Prohealer/static/css/main.f3770032.chunk.css",
-    "main.js": "/Prohealer/static/js/main.dc018c92.chunk.js",
-    "main.js.map": "/Prohealer/static/js/main.dc018c92.chunk.js.map",
+    "main.css": "/Prohealer/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/Prohealer/static/js/main.3020d546.chunk.js",
+    "main.js.map": "/Prohealer/static/js/main.3020d546.chunk.js.map",
     "runtime-main.js": "/Prohealer/static/js/runtime-main.c970c936.js",
     "runtime-main.js.map": "/Prohealer/static/js/runtime-main.c970c936.js.map",
     "static/css/2.cdcbbf41.chunk.css": "/Prohealer/static/css/2.cdcbbf41.chunk.css",
-    "static/js/2.d48c49d6.chunk.js": "/Prohealer/static/js/2.d48c49d6.chunk.js",
-    "static/js/2.d48c49d6.chunk.js.map": "/Prohealer/static/js/2.d48c49d6.chunk.js.map",
+    "static/js/2.8ed22885.chunk.js": "/Prohealer/static/js/2.8ed22885.chunk.js",
+    "static/js/2.8ed22885.chunk.js.map": "/Prohealer/static/js/2.8ed22885.chunk.js.map",
     "index.html": "/Prohealer/index.html",
-    "precache-manifest.67b593d22790ff5ea552cb9896cc7978.js": "/Prohealer/precache-manifest.67b593d22790ff5ea552cb9896cc7978.js",
+    "precache-manifest.a4c5c684375d8feb39c5f8645f351918.js": "/Prohealer/precache-manifest.a4c5c684375d8feb39c5f8645f351918.js",
     "service-worker.js": "/Prohealer/service-worker.js",
     "static/css/2.cdcbbf41.chunk.css.map": "/Prohealer/static/css/2.cdcbbf41.chunk.css.map",
-    "static/css/main.f3770032.chunk.css.map": "/Prohealer/static/css/main.f3770032.chunk.css.map",
-    "static/js/2.d48c49d6.chunk.js.LICENSE": "/Prohealer/static/js/2.d48c49d6.chunk.js.LICENSE",
+    "static/css/main.d498bfb3.chunk.css.map": "/Prohealer/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.8ed22885.chunk.js.LICENSE": "/Prohealer/static/js/2.8ed22885.chunk.js.LICENSE",
+    "static/media/beam-orange-2.png": "/Prohealer/static/media/beam-orange-2.8bc18c34.png",
     "static/media/semantic.min.css": "/Prohealer/static/media/outline-icons.ef60a4f6.woff",
     "static/media/darkElfMage.jpg": "/Prohealer/static/media/darkElfMage.10fb5387.jpg",
     "static/media/druid.jpg": "/Prohealer/static/media/druid.e70ca2f2.jpg",
     "static/media/elfMage.png": "/Prohealer/static/media/elfMage.17401227.png",
+    "static/media/explosion-orange-3.png": "/Prohealer/static/media/explosion-orange-3.ba698f7c.png",
+    "static/media/heal-royal-3.png": "/Prohealer/static/media/heal-royal-3.83878cf3.png",
     "static/media/hunter.jpg": "/Prohealer/static/media/hunter.5ce1bfe1.jpg",
     "static/media/priest.jpg": "/Prohealer/static/media/priest.50fd2d51.jpg",
+    "static/media/runes-orange-3.png": "/Prohealer/static/media/runes-orange-3.b3df9fe4.png",
     "static/media/warrior.jpg": "/Prohealer/static/media/warrior.3208cff0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c970c936.js",
     "static/css/2.cdcbbf41.chunk.css",
-    "static/js/2.d48c49d6.chunk.js",
-    "static/css/main.f3770032.chunk.css",
-    "static/js/main.dc018c92.chunk.js"
+    "static/js/2.8ed22885.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.3020d546.chunk.js"
   ]
 }

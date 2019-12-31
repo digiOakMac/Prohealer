@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "313cf0df8216447c1fa81fd3e553aa54",
+    "revision": "65c7194e25def930ba787d1fca3f39a8",
     "url": "/Prohealer/index.html"
   },
   {
-    "revision": "05210f89d3f573fabf0e",
+    "revision": "767bdd5aa8054ce9f167",
     "url": "/Prohealer/static/css/2.cdcbbf41.chunk.css"
   },
   {
-    "revision": "bc83b2ede2261e481e16",
-    "url": "/Prohealer/static/css/main.f3770032.chunk.css"
+    "revision": "e9262b3ed7ff641dcbe8",
+    "url": "/Prohealer/static/css/main.d498bfb3.chunk.css"
   },
   {
-    "revision": "05210f89d3f573fabf0e",
-    "url": "/Prohealer/static/js/2.d48c49d6.chunk.js"
+    "revision": "767bdd5aa8054ce9f167",
+    "url": "/Prohealer/static/js/2.8ed22885.chunk.js"
   },
   {
     "revision": "230ef20ea48b3f3e2717178e39e014f5",
-    "url": "/Prohealer/static/js/2.d48c49d6.chunk.js.LICENSE"
+    "url": "/Prohealer/static/js/2.8ed22885.chunk.js.LICENSE"
   },
   {
-    "revision": "bc83b2ede2261e481e16",
-    "url": "/Prohealer/static/js/main.dc018c92.chunk.js"
+    "revision": "e9262b3ed7ff641dcbe8",
+    "url": "/Prohealer/static/js/main.3020d546.chunk.js"
   },
   {
     "revision": "63235e04119ba61dc266",
     "url": "/Prohealer/static/js/runtime-main.c970c936.js"
+  },
+  {
+    "revision": "8bc18c34d24ae2a8f26ab4dea0ebb5a8",
+    "url": "/Prohealer/static/media/beam-orange-2.8bc18c34.png"
   },
   {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
@@ -60,8 +64,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Prohealer/static/media/elfMage.17401227.png"
   },
   {
+    "revision": "ba698f7c8676197f018ad6a1b7f33f8c",
+    "url": "/Prohealer/static/media/explosion-orange-3.ba698f7c.png"
+  },
+  {
     "revision": "9c74e172f87984c48ddf5c8108cabe67",
     "url": "/Prohealer/static/media/flags.9c74e172.png"
+  },
+  {
+    "revision": "83878cf3a9b457867fb0b519240d3990",
+    "url": "/Prohealer/static/media/heal-royal-3.83878cf3.png"
   },
   {
     "revision": "5ce1bfe185f9a2afb76a27e5496f41fe",
@@ -110,6 +122,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "50fd2d51bdd40d2333ccba54b8754b6a",
     "url": "/Prohealer/static/media/priest.50fd2d51.jpg"
+  },
+  {
+    "revision": "b3df9fe42b13b371e3a1a6b93c2df406",
+    "url": "/Prohealer/static/media/runes-orange-3.b3df9fe4.png"
   },
   {
     "revision": "3208cff034f300b57f5cd53e730ad6bc",
