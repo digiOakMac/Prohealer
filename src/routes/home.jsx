@@ -1,12 +1,19 @@
 import React from 'react';
-import TodosView from '../features/todos/components/TodosView'
-import './home.css';
+import styled from 'styled-components'
+import Party from '../features/party/components/Party'
+import Toolbar from '../features/toolbar/components/Toolbar'
+
+
+const GameDiv = styled.div`
+  padding: 1em;
+`
 
 function Home() {
   return (
-    <div style={{ padding: '1em' }}>
-      <TodosView />
-    </div>
+    <GameDiv>
+      <Party />
+      <Toolbar />
+    </GameDiv>
   );
 }
 

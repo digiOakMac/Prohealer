@@ -1,23 +1,29 @@
 import React from 'react'
-import { Item, Grid, Header, Form, Segment, Message } from 'semantic-ui-react'
-import Player from '../../player/components/Player'
-import PlayerClasses from '../../player/playerClasses'
+import styled from 'styled-components'
+import { Item, Grid } from 'semantic-ui-react'
+import Character from '../../character/components/Character'
+import CharClasses from '../../character/CharClasses'
+
+const Column = styled(Grid.Column)`
+  max-width: 300px;
+`
 
 const Party = () => (
-  <Grid textAlign='center' style={{ height: '100vh' }}>
-    <Grid.Column style={{ maxWidth: 300 }}>
-      <Header as='h2' color='teal' textAlign='center'>
-        Party
-      </Header>
+  <Grid columns={2} textAlign='center'>
+    <Column>
       <Item.Group>
-        {Object.values(PlayerClasses).map(playerClass => (
-          <Player playerClass={playerClass} />
-        ))}
+        <Character charClass={CharClasses.WARRIOR} />
+        <Character charClass={CharClasses.ROGUE} />
+        <Character charClass={CharClasses.HUNTER} />
       </Item.Group>
-      <Message>
-         [ Healing toolbar here... ]
-      </Message>
-    </Grid.Column>
+    </Column>
+    <Column>
+      <Item.Group>
+        <Character charClass={CharClasses.DRUID} />
+        <Character charClass={CharClasses.MAGE} />
+        <Character charClass={CharClasses.PRIEST} />
+      </Item.Group>
+    </Column>
   </Grid>
 )
 export default Party

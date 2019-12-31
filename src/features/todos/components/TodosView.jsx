@@ -1,5 +1,4 @@
 import React from 'react'
-import { Button } from 'semantic-ui-react'
 import Party from '../../party/components/Party'
 import { connect } from 'react-redux'
 import * as actions from '../actions'
@@ -14,7 +13,6 @@ const dispatchProps = {
 }
 
 const TodosView = props => {
-  const { addTodo, todos, ping } = props
   return (
     <Party />
   )
