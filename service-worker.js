@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Prohealer/precache-manifest.a4c5c684375d8feb39c5f8645f351918.js"
+  "/Prohealer/precache-manifest.45be052dea30d9577893d795312bb416.js"
 );
 
 self.addEventListener('message', (event) => {
