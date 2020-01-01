@@ -1,35 +1,38 @@
 import React from 'react'
-import { Image, Item, Progress } from 'semantic-ui-react'
+import { Image, Progress, Segment } from 'semantic-ui-react'
 import styled from 'styled-components'
 
-const Char = styled(Item)`
+const CharacterSegment = styled(Segment)`
   cursor: pointer;
   user-select: none;
-  border: 1px solid rgba(34,36,38,.15) !important;
-  border-radius: 5px !important;
-  padding: 0.45em !important;
-  margin: 0.45em !important;
+  display: flex;
+  align-items: center;
+  padding: 0 1em !important;
 `
 
-const Content = styled(Item.Content)`
-  padding-left: 1em !important;
-  padding-right: 0.5em !important;
+const CharInfoDiv = styled.div`
+  flex-grow: 1;
+  padding-left: 1em;
+  margin-top: 2px;
+  margin-bottom: -13px;
 `
 
-const Character = (props) => {
+const Portrait = styled(Image)`
+  border-radius: 50%;
+`
+
+const Character = props => {
   const { charClass } = props
   return (
-    <Char>
-      <Image rounded size='tiny' src={charClass.image} />
-      <Content>
-        {/* <Char.Header></Char.Header> */}
-        <Char.Meta>{charClass.name}</Char.Meta>
-        <Char.Description>
-          <Progress progress='ratio' value={900} total={1000} success/>
-        </Char.Description>
-        {/* <Char.Extra>Additional Details</Char.Extra> */}
-      </Content>
-    </Char>
+    <CharacterSegment>
+      <div>
+        <Portrait size='mini' src={charClass.image} />
+      </div>
+      <CharInfoDiv>
+        <span>{charClass.name}</span>
+        <Progress size='small' progress='ratio' value={900} total={1000} success />
+      </CharInfoDiv>
+    </CharacterSegment>
   )
 }
 export default Character
