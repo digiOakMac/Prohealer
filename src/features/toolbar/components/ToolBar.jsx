@@ -1,28 +1,28 @@
 import React from 'react'
-import styled from 'styled-components'
-import { Button, Image, List } from 'semantic-ui-react'
+import {Image, Menu } from 'semantic-ui-react'
 import images from '../images'
+import styled from 'styled-components'
 
-const ImageButton = styled(Button)`
-  padding: 0.35em !important;
+const ImageButton = styled(Image)`
+  transform: scale(1.5);
 `
 
 const ToolBar = () => {
   return (
-    <List horizontal>
-      <ImageButton>
-        <Image rounded src={images.LESSER_HEAL} size='mini' />
-      </ImageButton>
-      <ImageButton>
-        <Image rounded src={images.GREATER_HEAL} size='mini' />
-      </ImageButton>
-      <ImageButton>
-        <Image rounded src={images.INSTANT_HEAL} size='mini' />
-      </ImageButton>
-      <ImageButton>
-        <Image rounded src={images.MASS_HEAL} size='mini' />
-      </ImageButton>
-    </List>
+    <Menu>
+      <Menu.Item>
+        <ImageButton rounded src={images.LESSER_HEAL} size='mini' />
+      </Menu.Item>
+      <Menu.Item>
+        <ImageButton rounded src={images.GREATER_HEAL} size='mini' />
+      </Menu.Item>
+      <Menu.Item>
+        <ImageButton rounded src={images.INSTANT_HEAL} size='mini' />
+      </Menu.Item>
+      <Menu.Item>
+        <ImageButton rounded src={images.MASS_HEAL} size='mini' />
+      </Menu.Item>
+    </Menu>
   )
 }
 

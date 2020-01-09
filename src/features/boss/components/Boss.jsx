@@ -2,10 +2,11 @@ import React from 'react'
 import { Image, Progress, Segment } from 'semantic-ui-react'
 import styled from 'styled-components'
 
-const Character = props => {
-  const { name, image } = props.charClass
+const Boss = props => {
 
-  const Character = styled(Segment)`
+  const {name, image} = props.boss
+
+  const Boss = styled(Segment)`
     cursor: pointer;
     user-select: none;
     display: flex;
@@ -16,9 +17,8 @@ const Character = props => {
 
   const Portrait = styled(Image)`
     border-radius: 50%;
-    transform: scale(1.35);
+    transform: scale(0.85);
   `
-
   const Details = styled.div`
     flex-grow: 1;
     padding-left: 1em;
@@ -32,16 +32,17 @@ const Character = props => {
     return <NameDiv>{props.name}</NameDiv>
   }
 
-  const HealthBar = () => <Progress size='small' progress='ratio' value={900} total={1000} success />
+  const HealthBar = () => <Progress size='small' progress='ratio' value={9000} total={10000} success />
 
   return (
-    <Character>
-      <Portrait size='mini' src={image} />
+    <Boss>
+      <Portrait size='tiny' src={image} />
       <Details>
         <Name name={name} />
         <HealthBar />
       </Details>
-    </Character>
+    </Boss>
   )
 }
-export default Character
+
+export default Boss
